@@ -3,7 +3,7 @@ Este repositório contém um diagrama UML que representa as principais funcional
 
 # Reprodutor Musical 🎵
 
--Métodos: tocar(), pausar(), selecionarMusica(String musica)
+- Métodos: tocar(), pausar(), selecionarMusica(String musica)
 Aparelho Telefônico 📞
 - Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 Navegador de Internet 🌐
