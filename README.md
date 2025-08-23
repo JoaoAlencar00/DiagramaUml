@@ -1,6 +1,4 @@
-# DiagramaUml
-
-📱 Diagrama UML – iPhone
+## 📱 Diagrama UML – iPhone
 Este repositório contém um diagrama UML que representa as principais funcionalidades de um iPhone, modeladas através de interfaces em Java:
 
 Reprodutor Musical 🎵
